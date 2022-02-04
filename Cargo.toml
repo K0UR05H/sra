@@ -2,7 +2,7 @@
 name = "sra"
 description = "A collection of spaced repetition algorithms"
 version = "0.1.0"
-edition = "2018"
+edition = "2021"
 keywords = ["spaced-repetition", "supermemo"]
 categories = ["algorithms"]
 repository = "https://github.com/k0ur0x/sra"
